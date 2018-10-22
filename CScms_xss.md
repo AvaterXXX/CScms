@@ -26,7 +26,3 @@ getshell!
 ![](https://github.com/AvaterXXX/CScms/blob/master/images/getshell2.png)
 
 
-
-
-#### Vulnerabilities are owned by Patec HanGuang Lab
-#### ` https://www.patec.cn/`
