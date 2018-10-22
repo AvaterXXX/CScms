@@ -11,5 +11,4 @@ Upload PHP Trojan
 ![UP4](https://github.com/AvaterXXX/CScms/blob/master/images/UP4.png)
 ![UP5](https://github.com/AvaterXXX/CScms/blob/master/images/UP5.png)
 
-#### Vulnerabilities are owned by Patec HanGuang Lab
-#### `https://www.patec.cn/`
+
