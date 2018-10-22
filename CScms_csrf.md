@@ -50,5 +50,4 @@ USE POC
 PHP add success！
 ![CSRF5](https://github.com/AvaterXXX/CScms/blob/master/images/CSRF5.png)
 
-#### Vulnerabilities are owned by Patec HanGuang Lab
-#### ` https://www.patec.cn/`
+
